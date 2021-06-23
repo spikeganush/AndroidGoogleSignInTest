@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test!</string>
+    <string name="first_text">Hello Kikouni</string>
+    <string name="logogoogle">LogoGoogle</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_in_with_google_authentificator_using_firebase">Sign-in with Google authentificator using Firebase</string>
+    <string name="sign_in_with_google">Sign-in with Google</string>
+</resources>
